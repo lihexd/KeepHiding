@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:tizen="http://tizen.org/ns/widgets" id="http://yourdomain/KeepHiding" version="1.0.0" viewmodes="maximized">
+    <tizen:application id="E0Gz54tXkr.KeepHiding" package="E0Gz54tXkr" required_version="2.3.1"/>
+    <content src="index.html"/>
+    <feature name="http://tizen.org/feature/screen.size.all"/>
+    <icon src="hero.png" height="117" width="117"/>
+    <name>KeepHiding</name>
+    <tizen:profile name="mobile"/>
+</widget>
